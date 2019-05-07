@@ -1,0 +1,16 @@
+Important Note before Downloading and Installing Unity and Vuforia
+Section 1, Lecture 3
+
+In the Video lectures I mention that you can download the latest version of Unity and Vuforia, I highly recommend for students to use Unity 5.4.3 with Unity 6.1.17 or 6.2. This is to ensure compatibility between Unity and Vuforia and also a smooth course experience while you are enjoying creating Augmented Reality Apps and to spend less time debugging or troubleshooting. :) Then later when you have finished the course and gotten the hang of AR, you can migrate to later version of Unity and Vuforia.
+
+In the video I use my iPad as a reference for the target, you can either print the same image target that you use in Unity or you can display that image on a mobile device. Make sure that the image target and printed image reference image are the same.
+
+Enjoy Augmented Reality
+
+Kind Regards
+
+Ritesh Kanjee
+
+Augmented Startups (Previously Arduino Startups)
+
+ 

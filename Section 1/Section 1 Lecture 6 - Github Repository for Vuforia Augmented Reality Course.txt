@@ -1,0 +1,6 @@
+Github Repository for Vuforia Augmented Reality Course
+Section 1, Lecture 6
+
+You can download Markers and Scripts from the Github Repository 
+
+https://github.com/reigngt09/Vuforia_AR_Course

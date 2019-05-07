@@ -1,0 +1,10 @@
+Download and Install Unity and Vuforia
+
+
+https://store.unity.com/
+
+https://store.unity.com/download?ref=personal
+
+https://unity3d.com/get-unity/download/archive
+
+https://developer.vuforia.com/downloads

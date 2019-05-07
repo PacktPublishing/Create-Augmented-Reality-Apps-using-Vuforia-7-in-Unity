@@ -1,0 +1,16 @@
+Notes on Creating a Cylinder Target on Vuforia Developer Portal
+Section 2, Lecture 19
+
+Notes on Creating a Cylinder Target on Vuforia Developer Portal:
+
+Vuforia has not made it easy to get the correct dimension for creating a cylindrical image target. I suggest you use photoshop or gimp to crop your existing image target to the aspect ratio that they require. 
+
+Alternatively you can use the pre-made cylindrical target marker image which will make life easier in the next lecture. Download the image at the link in Github Repo over here:
+
+https://github.com/reigngt09/Vuforia_AR_Course/blob/master/Markers/cylinder_booster_A4.pdf
+
+Kind Regards
+
+Ritesh Kanjee
+
+Arduino Startups
